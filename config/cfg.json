@@ -1,0 +1,4 @@
+{
+  "log_level": 3,
+  "aggregator_host": ":8082"
+}
